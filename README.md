@@ -16,7 +16,7 @@ This project is a frontend capstone project aimed at building a Medical Appointm
 1. Clone the repository:
 
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/tsocial627/grihf-frontend_capstone_starter_code.git
    ```
 2. Navigate into the project directory:
 
